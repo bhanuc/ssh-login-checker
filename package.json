@@ -1,0 +1,32 @@
+{
+  "name": "ssh-login-checker",
+  "version": "0.0.1",
+  "description": "Check login credentials using SSH connection",
+  "main": "./lib/main.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhanuc/ssh-login-checker"
+  },
+  "keywords": [
+    "Node",
+    "login",
+    "iitk",
+    "check"
+  ],
+  "author": "Bhanu Pratap Chaudhary",
+  "license": "MIT",
+  "bugs": {
+    "url": "git@github.com:bhanuc/ssh-login-checker.git/issues"
+  },
+  "homepage": "https://github.com/bhanuc/ssh-login-checker",
+  "devDependencies": {
+    "mocha": "1.20.0",
+    "should": "4.0.0"
+  },
+  "dependencies": {
+    "pty.js": "0.2.4"
+  }
+}
