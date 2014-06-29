@@ -27,6 +27,6 @@
     "should": "4.0.0"
   },
   "dependencies": {
-    "pty.js": "0.2.4"
+    "ssh2": "~0.3.2"
   }
 }
