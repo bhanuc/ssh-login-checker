@@ -1,6 +1,6 @@
 {
   "name": "ssh-login-checker",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Check login credentials using SSH connection",
   "main": "./lib/main.js",
   "scripts": {
@@ -27,6 +27,6 @@
     "should": "4.0.0"
   },
   "dependencies": {
-    "ssh2": "~0.3.2"
+    "ssh2": "~0.4.12"
   }
 }
